@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lan 5-listfilesdigitonly 5-listfilesdigiton ls -lan
+ls -lan
